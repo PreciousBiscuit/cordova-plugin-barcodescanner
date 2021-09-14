@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sab-alex/phonegap-plugin-barcodescanner.git"
+    "url": "git+https://github.com/vlinde/phonegap-plugin-barcodescanner.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -45,9 +45,9 @@
   "author": "Adobe PhoneGap Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sab-alex/phonegap-plugin-barcodescanner/issues"
+    "url": "https://github.com/vlinde/phonegap-plugin-barcodescanner/issues"
   },
-  "homepage": "https://github.com/sab-alex/phonegap-plugin-barcodescanner#readme",
+  "homepage": "https://github.com/vlinde/phonegap-plugin-barcodescanner#readme",
   "scripts": {
     "test": "jasmine-node --color spec"
   },
