@@ -1,5 +1,8 @@
 # Change Log
 
+## v8.3.0
+
+- Set fullscreenmode IOS.
 ## v8.2.0
 
 - Added support for iOS 13.
